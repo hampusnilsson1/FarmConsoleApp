@@ -49,7 +49,7 @@ public class Animal extends Entity{
                     System.out.println(name + " was successfully fed " + amountInput +" "+ crop.getName());
                 }
                 else {
-                    System.out.println("Well i guess you're gonna starve the "+species);
+                    System.out.println("Well i guess you're gonna starve the "+species+", Or just get to work and start farming..");
                 }
                 eatableCrop = true;
                 break;

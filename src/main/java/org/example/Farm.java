@@ -86,6 +86,4 @@ public class Farm {
             System.out.println("Error saving animals! " + e);
         }
     }
-
-
 }
